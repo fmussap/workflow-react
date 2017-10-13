@@ -1,7 +1,7 @@
 'use strict'
 
 const gulp = require('gulp')
-const { spawn } = require('child_process')
+const { spawn } = require('cross-spawn')
 
 // on windows, install and use `cross-spawn`:
 // const { spawn } = require('cross-spawn')
