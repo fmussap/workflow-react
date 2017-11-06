@@ -49,4 +49,4 @@ A big thanks to [@hgtpcastro](https://github.com/hgtpcastro) for this tip.
 - `yarn start (or npm start)`: Special script reserved to run production code. Change as you wish. For now, it is the same as `yarn dev`.
 
 ## Thanks
-@fdaciuk
+[@fdaciuk](https://github.com/fdaciuk)
