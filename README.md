@@ -12,6 +12,7 @@
 * Dynamic `import()` function
 * Webpack tree shaking!
 * [Preact](https://preactjs.com/) for production build (optional)
+* redux and redux-promise
 
 ## Dependencies:
 
@@ -19,7 +20,7 @@
 
 ## Up and running
 
-- Clone this repository: `git clone git@github.com:fdaciuk/workflow-reactjs.git`;
+- Clone this repository
 - Remove `.git` directory;
 - Install dependencies: `yarn` (or `npm i`);
 - Run `yarn dev` (or `npm start`) to develop on `http://localhost:3000`
@@ -47,6 +48,5 @@ A big thanks to [@hgtpcastro](https://github.com/hgtpcastro) for this tip.
 - `yarn update-packages`: Update all packages to the latest version
 - `yarn start (or npm start)`: Special script reserved to run production code. Change as you wish. For now, it is the same as `yarn dev`.
 
-## License
-
-[MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
+## Thanks
+@fdaciuk
